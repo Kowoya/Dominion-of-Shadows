@@ -80,5 +80,11 @@
     <ClInclude Include="C:\Users\Мария\Downloads\IEnding.h">
       <Filter>Source Files\src\interfaces</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\QuestManager.h">
+      <Filter>Source Files\src\quests</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\Quest.h">
+      <Filter>Source Files\src\quests</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

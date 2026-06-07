@@ -151,6 +151,8 @@
     <ClInclude Include="C:\Users\Мария\Downloads\NPC.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\Player.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\PlayerEventBus.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\Quest.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\QuestManager.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\Ritual.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
