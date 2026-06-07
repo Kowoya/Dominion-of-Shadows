@@ -51,6 +51,9 @@
     <ClCompile Include="C:\Users\Мария\Downloads\main.cpp">
       <Filter>Source Files\src</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Мария\Downloads\test_refactored.cpp">
+      <Filter>Source Files\tests</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\Мария\Downloads\IUserInterface.h">
@@ -107,5 +110,13 @@
     <ClInclude Include="C:\Users\Мария\Downloads\core_types.h">
       <Filter>Source Files\src</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\MockUI.h">
+      <Filter>Source Files\tests</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\Мария\Downloads\CMakeLists (1).txt">
+      <Filter>Source Files\tests</Filter>
+    </Text>
   </ItemGroup>
 </Project>
