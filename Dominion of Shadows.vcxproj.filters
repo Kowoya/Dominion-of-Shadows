@@ -56,9 +56,6 @@
     <ClInclude Include="C:\Users\Мария\Downloads\IUsable.h">
       <Filter>Source Files\src\interfaces</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Мария\Downloads\Endings.h">
-      <Filter>Source Files\src\interfaces</Filter>
-    </ClInclude>
     <ClInclude Include="C:\Users\Мария\Downloads\ConsoleUI.h">
       <Filter>Source Files\src\ui</Filter>
     </ClInclude>
@@ -76,6 +73,12 @@
     </ClInclude>
     <ClInclude Include="C:\Users\Мария\Downloads\Ritual.h">
       <Filter>Source Files\src\rituals</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\Item.h">
+      <Filter>Source Files\src\items</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\IEnding.h">
+      <Filter>Source Files\src\interfaces</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
