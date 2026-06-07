@@ -139,11 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Dominion of Shadows.cpp" />
+    <ClCompile Include="C:\Users\Мария\Downloads\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\Мария\Downloads\ConsoleUI.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\core_types.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\DialogueChoice.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\Endings (1).h" />
     <ClInclude Include="C:\Users\Мария\Downloads\Entity.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\GameFacade.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\House.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\IEnding.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\Item.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\IUsable.h" />
@@ -154,6 +159,7 @@
     <ClInclude Include="C:\Users\Мария\Downloads\Quest.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\QuestManager.h" />
     <ClInclude Include="C:\Users\Мария\Downloads\Ritual.h" />
+    <ClInclude Include="C:\Users\Мария\Downloads\Scene.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

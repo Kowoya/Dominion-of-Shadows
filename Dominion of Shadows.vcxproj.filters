@@ -43,9 +43,12 @@
     <Filter Include="Source Files\src\game">
       <UniqueIdentifier>{fbb015c3-689b-41c8-ba87-7cf11fb57fa5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\tests">
+      <UniqueIdentifier>{a8dc7f8a-4bbd-4435-8c68-85c6c538f828}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Dominion of Shadows.cpp">
+    <ClCompile Include="C:\Users\Мария\Downloads\main.cpp">
       <Filter>Source Files\src</Filter>
     </ClCompile>
   </ItemGroup>
@@ -85,6 +88,24 @@
     </ClInclude>
     <ClInclude Include="C:\Users\Мария\Downloads\Quest.h">
       <Filter>Source Files\src\quests</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\House.h">
+      <Filter>Source Files\src\world</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\Scene.h">
+      <Filter>Source Files\src\world</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\GameFacade.h">
+      <Filter>Source Files\src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\Endings (1).h">
+      <Filter>Source Files\src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\DialogueChoice.h">
+      <Filter>Source Files\src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\core_types.h">
+      <Filter>Source Files\src</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
