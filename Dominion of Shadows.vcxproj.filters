@@ -19,6 +19,9 @@
     <Filter Include="Source Files\src\interfaces">
       <UniqueIdentifier>{ccbdc085-35ec-4a41-905f-6ed0f2d7a7a6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\src\ui">
+      <UniqueIdentifier>{3963302b-608a-4674-8d0d-e0a5ef506bf9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Dominion of Shadows.cpp">
@@ -34,6 +37,9 @@
     </ClInclude>
     <ClInclude Include="C:\Users\Мария\Downloads\Endings.h">
       <Filter>Source Files\src\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Мария\Downloads\ConsoleUI.h">
+      <Filter>Source Files\src\ui</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
